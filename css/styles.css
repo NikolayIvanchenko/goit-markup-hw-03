@@ -207,7 +207,7 @@ img {
   overflow: hidden;
 }
 
-.benefits-list li {
+.list-benefits {
   width: calc((100% - 72px) / 4);
 }
 
